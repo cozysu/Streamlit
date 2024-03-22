@@ -180,7 +180,8 @@ tenacity==8.2.3
 #tensorboard==2.9.1
 #tensorboard-data-server==0.6.1
 #tensorboard-plugin-wit==1.8.1
-tensorflow==2.9.1
+#tensorflow==2.9.1
+tensorflow
 #tensorflow-estimator==2.9.0
 tqdm==4.66.2
 traitlets==5.14.1
